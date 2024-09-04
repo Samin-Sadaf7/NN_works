@@ -9,7 +9,6 @@ Welcome to the Neural Network Project repository! This repository is dedicated t
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Models](#models)
-- [Datasets](#datasets)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
@@ -71,14 +70,6 @@ This project includes implementations of the following models:
 - **Recurrent Neural Network (RNN)**
 - **Long Short-Term Memory (LSTM)**
 
-## Datasets
-
-The following datasets are commonly used in this project:
-
-- **MNIST**: Dataset of handwritten digits.
-- **CIFAR-10**: Dataset of 60,000 32x32 color images in 10 classes.
-- **IMDB**: Dataset for binary sentiment classification.
-- **Custom Datasets**: Custom datasets can be integrated by providing the necessary data loaders.
 
 ## Results
 
